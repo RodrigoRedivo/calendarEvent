@@ -15,7 +15,7 @@
 </h4>
 
 <h4 align="center">
-	<img alt="project" title="Project" src="https://raw.githubusercontent.com/RodrigoRedivo/teste/main/src/assets/chrome-capture%20(1).gif?token=ANGKLMP7YM27BUHE237MBVTAUFS7K" width="800px" />
+	<img alt="project" title="Project" src="https://raw.githubusercontent.com/RodrigoRedivo/teste/main/src/assets/chrome-capture%20(1).gif?token=ANGKLMI62ML7PBIRYGE66C3AUGLDY" width="800px" />
 </h4>
 
 ---
