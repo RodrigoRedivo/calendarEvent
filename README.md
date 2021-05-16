@@ -56,7 +56,7 @@
 $ git clone https://github.com/RodrigoRedivo/testeTokenLab
 
 # Acesse a pasta do projeto
-$ cd backendTesteTokenLab
+$ cd backendCalendarEvent
 
 # Instale as Dependencias do projeto
 $ npm install ou yarn
@@ -67,7 +67,7 @@ $ npm start ou yarn start
 # Agora que ligou o servidor do backend , vamos iniciar o frontend
 
 # Acesse a pasta do projeto
-$ cd frontendTesteTokenLab
+$ cd frontendCalendarEvent
 
 # Instale as Dependencias do projeto
 $ npm install ou yarn
