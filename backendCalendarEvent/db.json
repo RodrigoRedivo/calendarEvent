@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "id": "A786123ajkhd1",
+            "nome": "admin",
+            "email": "admin@admin.com",
+            "senha": "123456"
+        }
+],
+    "eventos": [{
+        "id": "ac123A#809123",
+        "descricao": "Reunião",
+        "inicio": "2021-05-14T18:35",
+        "fim": "2021-05-14T19:35"
+    }]
+}

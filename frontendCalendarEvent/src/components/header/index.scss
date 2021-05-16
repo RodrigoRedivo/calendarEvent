@@ -1,0 +1,56 @@
+.header-component {
+  background-color: #28262e;
+  padding: 32px 0;
+  display: flex;
+
+  img {
+    height: 80px;
+    padding-left: 20px;
+  }
+
+  button {
+    margin-left: auto;
+    background: transparent;
+    border: 0;
+
+    svg {
+      color: #999591;
+      width: 20px;
+      height: 20px;
+    }
+
+    svg:hover {
+      color: #ede4dc;
+      transition-delay: 0.5s;
+    }
+  }
+
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    padding: 20px;
+
+    span {
+      font-size: 36px;
+      font-weight: 900;
+      color: #f9f9f9;
+
+      strong {
+        padding: 10px;
+        color: #999591;
+        font-size: 16px;
+        font-weight: 500;
+      }
+    }
+  }
+}
+
+@media (max-width: 1550px) {
+  .header-component {
+    .wrapper {
+      width: 50vw;
+    }
+  }
+}
