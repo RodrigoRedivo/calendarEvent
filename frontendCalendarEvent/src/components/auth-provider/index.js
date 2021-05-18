@@ -33,14 +33,20 @@ function AuthProvider({ children }){
             body: JSON.stringify({ email, senha })
         }
 
-        return new Promise((resolve, reject)=>{
-            callAPi('http://localhost:8080/login', opts)
-                .then((result)=>{
-                    resolve(result)
-                    setNewUser(result)
-                })
-                .catch(reject)
-        })
+        return new Promise((resolve, reject) => {
+          callAPi("http://localhost:8080/login", opts)
+            .then((result) => {
+              console.log(result);
+              if (result.error) {
+                alert(result.error);
+                reject(result);
+              } else {
+                resolve(result);
+                setNewUser(result);
+             }
+           })
+           .catch(reject);
+        });
         
     }
 
