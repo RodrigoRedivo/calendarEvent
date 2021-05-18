@@ -15,7 +15,7 @@
 </h4>
 
 <h4 align="center">
-	<img alt="project" title="Project" src="https://raw.githubusercontent.com/RodrigoRedivo/teste/main/src/assets/chrome-capture%20(1).gif?token=ANGKLMI62ML7PBIRYGE66C3AUGLDY" width="800px" />
+	<img alt="project" title="Project" src="https://raw.githubusercontent.com/RodrigoRedivo/calendarEvent/main/frontendCalendarEvent/src/assets/calendarEvent.gif" width="800px" />
 </h4>
 
 ---
@@ -29,7 +29,7 @@
   <img alt="Css" title="Css" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="60px" />
   <img alt="JavaScript" title="JavaScript" src="https://images.vexels.com/media/users/3/166403/isolated/lists/a5a33bf3004830a2bd581e9fa65de660-icone-da-linguagem-de-programacao-javascript.png" width="60px" style="border-radius: 25%"/>
   <img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="90px" />
-  <img alt="Node" title="Node" src="https://lh3.googleusercontent.com/proxy/xPyFT1mQtrfNCE2B7-Gx_pG9JYILtb8NFNS-zmd5ysTAf-XNlxopGv2TFu50DCTxfEIqyG_7NUuvbqZJYoS-vWqyVGMzTOIMztxjYVLF271X3lqKa_GJbzG369C9hmVYVwUg_aU3DNs6EJOewIIYhQg1edE" width="120px" />
+  <img alt="Node" title="Node" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="60px" />
   <img alt="SaSS" title="Sass" src="https://camo.githubusercontent.com/f75be34b984916f7c30b40dbf332154eb2e06ed630ce0f446aaa6ec134c8f94f/68747470733a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67" width="60px"/>
 </h3>
 
